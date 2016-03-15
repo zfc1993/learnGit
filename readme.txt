@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Updates to be pushed.
 Creating a ne branch is quick.
+New branch feature1.
